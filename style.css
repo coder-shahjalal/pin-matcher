@@ -31,6 +31,10 @@ body {
   outline: none;
   box-shadow: none;
 }
+.generate-btn:hover {
+  background-color: #5469df;
+  font-size: 21px;
+}
 
 input[type="text"] {
   background-color: #3d4153;
@@ -76,6 +80,10 @@ input[type="text"]:focus {
   border-radius: 10px;
   cursor: pointer;
 }
+.button:hover {
+  width: 21%;
+  background: #5c6b80;
+}
 .blink-me {
   color: #e0b612;
 }
@@ -86,6 +94,10 @@ input[type="text"]:focus {
   border-radius: 5px;
   background: #495bc3;
   color: #fff;
+}
+.submit-btn:hover {
+  background: #5d70d8;
+  padding: 11px 125px;
 }
 .notify {
   color: #fff;
